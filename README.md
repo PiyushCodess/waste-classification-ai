@@ -26,3 +26,7 @@ This project is an AI-powered waste classification system that identifies whethe
 # waste-classification-ai
 AI-based waste classification system using Python and Streamlit
 242d20e0beae94286efc1a0fc9c71897873f141c
+
+
+# Live
+[waste-classification-ai](https://waste-classification-ai.onrender.com)
